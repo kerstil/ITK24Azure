@@ -5,6 +5,6 @@
   <body>
     <h1> Meie projekt ITK24 gruppiga</h1>
     <p>See leht arvestab meie muutustega (Loe dünaamiline)</p>
-    <img src="https://upload.wikimedia.org/wikipedia/et/thumb/7/7f/Kehtna_8297.JPG/1200px-Kehtna_8297.JPG">
+    <img src="https://sonumid.ee/wp-content/uploads/2019/07/Kehtna_1-copy.jpg">
   </body>
 </html>
